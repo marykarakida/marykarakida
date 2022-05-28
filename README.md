@@ -1,30 +1,35 @@
-## Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
+# Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
 
-<div> 
-  <img align="right" width="450" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+<img align="right" width="400" src="https://media.istockphoto.com/vectors/working-at-home-coworking-space-and-home-office-concept-freelancer-vector-id1256213257?k=20&m=1256213257&s=612x612&w=0&h=Vnk0-0y08nLHIh8Iv5oMKEknDKhm2tZ37VenVu3FmhM="> 
 
-  My name is **Mary** and I'm currently a **Full Stack Web Developer student** in **Driven Education**!
+## About me...
+```yaml
+name: Mary Karakida
+from: São Paulo, Brazil
+occupation: Full Stack Web Developer student at Driven Education
+currently_learning: ["React"]
+hobbies: ["Anime/Manga", "Crime Drama", "Daydreaming"]
+```
 
-  My first contact with programming was as an undergraduate student in Biomedical Science. 
-  I enjoy learning new concepts and applying them to solve coding problems.
-  
-  <!-- wgy i love programming or what programming means to me-->
-  <!-- my dream as a programmer -->
- </div>
+<br/><br/><br/><br/>
 
-### Languages and Tools:
+## Languages and Tools
 <div>
-  <img align="center" title="HTML5" alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="center" title="CSS3" alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="center" title="JavaScript" alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" title="Git" alt="Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" title="GitHub" alt="GitHub" height="32" width="40" src="https://gist.githubusercontent.com/andrezzasouza/a5a0d2445c4c5015ffbb0704f87a7c34/raw/8153b4f391c3513f6bca21727980d3a1f5a197f0/github-grey.svg" />
+  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 </div>
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/marykarakida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
