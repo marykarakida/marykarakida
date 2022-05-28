@@ -1,10 +1,10 @@
 # Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
 
-<img align="right" width="400" src="https://media.istockphoto.com/vectors/working-at-home-coworking-space-and-home-office-concept-freelancer-vector-id1256213257?k=20&m=1256213257&s=612x612&w=0&h=Vnk0-0y08nLHIh8Iv5oMKEknDKhm2tZ37VenVu3FmhM="> 
+<img align="right" width="400" src="https://i.pinimg.com/originals/ea/7b/99/ea7b99462c54cd901c511f3abef8fa4b.gif"> 
 
 ## About me...
 ```yaml
-name: Mary Karakida
+name: Mary Karakida 
 from: São Paulo, Brazil
 occupation: Full Stack Web Developer student at Driven Education
 currently_learning: ["React"]
@@ -24,12 +24,13 @@ hobbies: ["Anime/Manga", "Crime Drama", "Daydreaming"]
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 </div>
 
-## GitHub Stats
-
 <div align="center">
   <a href="https://github.com/marykarakida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<!-- 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+-->
