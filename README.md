@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=1F73F7&vCenter=true&lines=Hello+World!+%5E_%5E;Have+a+great+day!)](https://git.io/typing-svg)
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/ea/7b/99/ea7b99462c54cd901c511f3abef8fa4b.gif"> 
+<br/>
+
+<img width="500" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif">
+
+<br/>
 
 ## About me...
 ```yaml
@@ -10,8 +14,6 @@ occupation: Full Stack Web Developer student at Driven Education
 currently_learning: ["React"]
 hobbies: ["Anime/Manga", "Crime Drama", "Daydreaming"]
 ```
-
-<br/><br/><br/><br/>
 
 ## Languages and Tools
 <div>
@@ -24,7 +26,9 @@ hobbies: ["Anime/Manga", "Crime Drama", "Daydreaming"]
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 </div>
 
-<div align="center">
+<br/>
+
+<div>
   <a href="https://github.com/marykarakida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
