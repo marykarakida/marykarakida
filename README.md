@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=1F73F7&vCenter=true&lines=Hello+World!+%5E_%5E;Have+a+great+day!)](https://git.io/typing-svg)
 
-<img align="right" width="500" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif">
+<img width="500" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif">
   
 ### <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> Hi there, I'm Mary!  
 
