@@ -2,11 +2,9 @@
 
 <img width="500" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif">
   
-### <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> Hi there, I'm Mary!  
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> <samp> Hi there, I'm Mary! </samp>
 
-🖥️ I'm a **Full Stack Web Developer student** at **Driven Education**. 
-
-🎲 I enjoy learning new concepts and applying them to solve coding problems.
+### <samp> I'm a student at **Driven Education** bootcamp and aspiring **software developer** 🖥️ I enjoy learning new concepts and applying them to solve coding problems 🎲 </samp>
 
 ---
 
@@ -38,15 +36,7 @@
 
 </br>
 
-
-  <a href="https://github.com/marykarakida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-
-
-
-
-
-
-
+<a href="https://github.com/marykarakida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marykarakida&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marykarakida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
